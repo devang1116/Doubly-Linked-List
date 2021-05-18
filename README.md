@@ -1,2 +1,2 @@
 # Doubly-Linked-List
-Doubly Linked List in C++
+Doubly LinkedList Implementation in C++ using Struct . Doubly Linked List allows to access the node after it and the node before it to provide more accessibility . Implmented various functions such as Inserting at the Head , the Tail and in the Middle , Deleting elements at the Head , the Tail and in the Middle , Displaying the Linked List and Searching for nodes or elements in the Linked List.
